@@ -1,10 +1,8 @@
+http://example.com/post/5c71a48a.html
 http://example.com/tags/index.html
 http://example.com/about/index.html
 http://example.com/categories/index.html
-http://example.com/post/b24dd347.html
-http://example.com/post/13bb8d58.html
-http://example.com/post/d87f7e0c.html
 http://example.com/post/4a17b156.html
 http://example.com/404.html
 http://example.com/
-http://example.com/tags/test1/
+http://example.com/tags/%E7%A1%AC%E6%A0%B8%E7%8B%A0%E4%BA%BA/
